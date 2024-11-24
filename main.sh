@@ -1,4 +1,4 @@
 #!/usr/bin/env bash
 
 
-python3 src/main.py
+PYTHONPATH=./src python3 src/main.py
